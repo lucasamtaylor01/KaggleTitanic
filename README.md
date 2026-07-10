@@ -1,4 +1,4 @@
-# Kaggle: Titanic 🚢
+# Kaggle: Titanic 🚢🦆
 
 ## 📝 Description
 Start here! Predict survival on the Titanic and get familiar with ML basics
